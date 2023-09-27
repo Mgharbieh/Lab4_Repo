@@ -7,7 +7,7 @@
 
 public class Hello {
 ​  public static void main(String[] args) {
-​​    for(int i=1;i<=12;i++) {   //loop 12 times
+​​    for(int i=1;i<=15;i++) {   //loop 15 times
 ​​​      System.out.println("Hello World..."+i);
 ​​    }
       System.out.println("Done!");
