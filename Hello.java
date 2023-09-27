@@ -10,5 +10,6 @@ public class Hello {
 ​​    for(int i=1;i<=12;i++) {   //loop 12 times
 ​​​      System.out.println("Hello World..."+i);
 ​​    }
+      System.out.println("Done!");
 ​  }
 }
