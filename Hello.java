@@ -4,11 +4,12 @@
 
 //Removed all old comments, final Jenkins attempt now
 
+
 public class Hello {
-​  public static void main(String[] args) {
-​​    for(int i=0;i<15;i++) {   //loop 15 times
-​​​      System.out.println("Hello World..."+(i+1));
-​​    }
-      System.out.println("Done printing!");
-​  }
+      public static void main(String[] args) {
+            for(int i = 0; i<12; i++) {
+                  System.out.println("Hello World..." + (i+1));
+            }
+            System.out.println("Done!");
+      }
 }
